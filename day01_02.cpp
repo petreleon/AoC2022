@@ -1,8 +1,3 @@
-#include <fstream>
-#include <string>
-#include <sstream>
-#include <iostream>
-#include <vector>
 #include <bits/stdc++.h>
 using namespace std;
 
